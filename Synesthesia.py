@@ -1,5 +1,4 @@
 from PHASE_1 import *
-from INTERMEDIARY_ENCRYPTION_PHASE import *
 from PHASE_2 import *
 
 def encrypt(file):
